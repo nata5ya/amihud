@@ -8,8 +8,6 @@ import urllib.request
 import yesg
 
 """
-    Created by: @CukoF
-    Created on: 26.09.2023
     This file contains the functions for getting and calculating the ESG scores for the S&P 500 companies.
 """
 
